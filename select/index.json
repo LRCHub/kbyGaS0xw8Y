@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "言わなくても伝わる あれは少し嘘だ EPIPHANY at Tokyo Dome 2025.06.15 (Live Version)",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-18T06:43:24.410994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言わなくても伝わる あれは少し嘘だ",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_言わなくても伝わる_あれは少し嘘だ_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言わなくても伝わる あれは少し嘘だ",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/02_言わなくても伝わる_あれは少し嘘だ_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "言わなくても伝わる あれは少し嘘だ（ALL TIME BEST ver.） (All Time Best Version)",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/03_言わなくても伝わる_あれは少し嘘だ(ALL_TIME_BEST_ver.)_(All_Time_Best_Version)_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "言わなくても伝わる あれは少し嘘だ（ALL TIME BEST ver.）",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/04_言わなくても伝わる_あれは少し嘘だ(ALL_TIME_BEST_ver.)_Uverworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言わなくても伝わる あれは少し嘘だ",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_言わなくても伝わる_あれは少し嘘だ_UVERworld.txt"
+    }
+  ]
+}
